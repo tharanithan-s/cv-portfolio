@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" fill="none">
+  <rect width="960" height="540" rx="16" fill="#0B0F19"/>
+  <rect x="1" y="1" width="958" height="538" rx="15" stroke="#1E293B" stroke-width="2"/>
+  <!-- Browser Top Bar -->
+  <rect x="2" y="2" width="956" height="44" rx="14" fill="#111827"/>
+  <circle cx="28" cy="24" r="6" fill="#EF4444" fill-opacity="0.7"/>
+  <circle cx="48" cy="24" r="6" fill="#F59E0B" fill-opacity="0.7"/>
+  <circle cx="68" cy="24" r="6" fill="#10B981" fill-opacity="0.7"/>
+  <rect x="260" y="12" width="440" height="24" rx="6" fill="#0B0F19" stroke="#1E293B"/>
+  <text x="480" y="28" fill="#94A3B8" font-family="monospace" font-size="12" text-anchor="middle">https://jd-eco.com/</text>
+  <!-- Dashboard Hero Banner -->
+  <rect x="40" y="74" width="880" height="170" rx="12" fill="#111827" stroke="#1E293B"/>
+  <rect x="68" y="98" width="150" height="24" rx="12" fill="#3B82F6" fill-opacity="0.15"/>
+  <text x="143" y="114" fill="#60A5FA" font-family="monospace" font-size="11" text-anchor="middle">LIVE WEB PLATFORM</text>
+  <text x="68" y="154" fill="#F8FAFC" font-family="sans-serif" font-size="26" font-weight="bold">JD Eco-Farm Management Platform</text>
+  <text x="68" y="184" fill="#94A3B8" font-family="sans-serif" font-size="14">Sustainable agricultural workflows, operational details &amp; farm management web interface</text>
+  <rect x="68" y="202" width="140" height="28" rx="6" fill="#3B82F6"/>
+  <text x="138" y="220" fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">jd-eco.com ↗</text>
+  <!-- 3 Feature Cards Preview -->
+  <rect x="40" y="268" width="276" height="228" rx="12" fill="#111827" stroke="#1E293B"/>
+  <rect x="64" y="292" width="42" height="42" rx="10" fill="#3B82F6" fill-opacity="0.15"/>
+  <text x="85" y="319" fill="#60A5FA" font-family="sans-serif" font-size="18" text-anchor="middle">01</text>
+  <text x="64" y="362" fill="#F8FAFC" font-family="sans-serif" font-size="16" font-weight="bold">Sustainable Workflows</text>
+  <text x="64" y="388" fill="#94A3B8" font-family="sans-serif" font-size="12">Structured presentation of</text>
+  <text x="64" y="406" fill="#94A3B8" font-family="sans-serif" font-size="12">eco-friendly farming practices.</text>
+  <rect x="64" y="436" width="180" height="8" rx="4" fill="#1E293B"/>
+  <rect x="64" y="436" width="124" height="8" rx="4" fill="#3B82F6"/>
+
+  <rect x="342" y="268" width="276" height="228" rx="12" fill="#111827" stroke="#1E293B"/>
+  <rect x="366" y="292" width="42" height="42" rx="10" fill="#8B5CF6" fill-opacity="0.15"/>
+  <text x="387" y="319" fill="#A78BFA" font-family="sans-serif" font-size="18" text-anchor="middle">02</text>
+  <text x="366" y="362" fill="#F8FAFC" font-family="sans-serif" font-size="16" font-weight="bold">Operational Overview</text>
+  <text x="366" y="388" fill="#94A3B8" font-family="sans-serif" font-size="12">Centralized farm operations</text>
+  <text x="366" y="406" fill="#94A3B8" font-family="sans-serif" font-size="12">and information layout.</text>
+  <rect x="366" y="436" width="180" height="8" rx="4" fill="#1E293B"/>
+  <rect x="366" y="436" width="142" height="8" rx="4" fill="#8B5CF6"/>
+
+  <rect x="644" y="268" width="276" height="228" rx="12" fill="#111827" stroke="#1E293B"/>
+  <rect x="668" y="292" width="42" height="42" rx="10" fill="#3B82F6" fill-opacity="0.15"/>
+  <text x="689" y="319" fill="#60A5FA" font-family="sans-serif" font-size="18" text-anchor="middle">03</text>
+  <text x="668" y="362" fill="#F8FAFC" font-family="sans-serif" font-size="16" font-weight="bold">Responsive Interface</text>
+  <text x="668" y="388" fill="#94A3B8" font-family="sans-serif" font-size="12">Accessible across desktop,</text>
+  <text x="668" y="406" fill="#94A3B8" font-family="sans-serif" font-size="12">tablet, and mobile screens.</text>
+  <rect x="668" y="436" width="180" height="8" rx="4" fill="#1E293B"/>
+  <rect x="668" y="436" width="160" height="8" rx="4" fill="#3B82F6"/>
+</svg>

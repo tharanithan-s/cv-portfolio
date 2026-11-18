@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" fill="none">
+  <rect width="640" height="380" rx="14" fill="#0B0F19" stroke="#1E293B" stroke-width="2"/>
+  <rect x="24" y="24" width="592" height="52" rx="8" fill="#111827" stroke="#1E293B"/>
+  <text x="44" y="55" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold">Responsive Layout &amp; Deployment Preview</text>
+  <rect x="24" y="96" width="380" height="256" rx="10" fill="#111827" stroke="#1E293B"/>
+  <text x="44" y="130" fill="#60A5FA" font-family="monospace" font-size="12">DESKTOP VIEWPORT</text>
+  <text x="44" y="158" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold">Structured Multi-Column Grid</text>
+  <rect x="44" y="182" width="160" height="140" rx="8" fill="#0B0F19" stroke="#1E293B"/>
+  <rect x="220" y="182" width="160" height="140" rx="8" fill="#0B0F19" stroke="#1E293B"/>
+
+  <rect x="424" y="96" width="192" height="256" rx="10" fill="#111827" stroke="#1E293B"/>
+  <text x="444" y="130" fill="#A78BFA" font-family="monospace" font-size="12">MOBILE VIEW</text>
+  <rect x="444" y="152" width="152" height="170" rx="8" fill="#0B0F19" stroke="#1E293B"/>
+  <rect x="460" y="172" width="120" height="12" rx="4" fill="#3B82F6" fill-opacity="0.35"/>
+  <rect x="460" y="196" width="120" height="50" rx="6" fill="#111827"/>
+  <rect x="460" y="256" width="120" height="50" rx="6" fill="#111827"/>
+</svg>
